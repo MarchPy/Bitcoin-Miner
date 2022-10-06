@@ -1,8 +1,16 @@
-# Bitcoin Miner
-
-### Informações
-Um experimental script para mineração de Bitcoin usando as apis da BlockChain.
+# _Bitcoin Miner - Informações_
+Um experimental script para mineração de Bitcoin usando as APIs da BlockChain.
 
 
 # Imagens
-![Captura de Tela (1)](https://user-images.githubusercontent.com/62616207/194236216-55ce8d70-4009-456b-aaf3-5eacc7e01756.png)
+![image](https://user-images.githubusercontent.com/62616207/194238161-0dfad9a2-3025-4e6d-80b3-1fb33d118f4f.png)
+
+![image](https://user-images.githubusercontent.com/62616207/194238279-f2d977a2-474b-439a-af70-bf07797e5f1e.png)
+
+
+# Problemas
+- Não sei como validar o resultado para obter a recompensa
+
+# Documentação
+
+Blockchain Data API: https://www.blockchain.com/api/blockchain_api
